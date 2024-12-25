@@ -19,4 +19,20 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
