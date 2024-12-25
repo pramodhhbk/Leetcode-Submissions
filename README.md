@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
