@@ -1,6 +1,6 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        nums = sorted(nums)
+        
         votes = 0
         candidate = -1
         for i in range(len(nums)):
