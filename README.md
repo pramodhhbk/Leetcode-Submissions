@@ -12,6 +12,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
