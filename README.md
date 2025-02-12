@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
