@@ -12,6 +12,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
