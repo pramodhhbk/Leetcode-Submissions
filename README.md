@@ -94,4 +94,8 @@
 | [0053-maximum-subarray](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0198-house-robber) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
