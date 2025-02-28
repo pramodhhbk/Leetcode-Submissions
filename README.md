@@ -12,6 +12,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -102,6 +103,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
