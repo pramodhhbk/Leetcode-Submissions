@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1297-maximum-number-of-balloons](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1297-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
