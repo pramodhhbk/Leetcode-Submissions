@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1127-last-stone-weight](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0078-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
