@@ -22,6 +22,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0560-subarray-sum-equals-k](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1127-last-stone-weight](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 ## Binary Search
@@ -126,6 +127,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
