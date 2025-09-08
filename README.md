@@ -37,10 +37,12 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -138,4 +140,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
