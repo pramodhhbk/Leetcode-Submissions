@@ -14,6 +14,9 @@ class Solution:
 
         return 1+max(left,right) 
 
+        #TC = O(n)
+        #SC = O(h)
+
 
     
         
