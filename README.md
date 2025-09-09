@@ -48,6 +48,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0210-course-schedule-ii](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
