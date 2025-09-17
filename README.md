@@ -13,6 +13,7 @@
 | [0011-container-with-most-water](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
@@ -83,6 +85,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pramodhhbk/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
